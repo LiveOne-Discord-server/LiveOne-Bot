@@ -14,13 +14,11 @@ After that, a **terminal** will open and ask you to enter the **token** in the f
 
 To edit the bot, we recommend using **[IntelliJ IDEA](https://www.jetbrains.com/idea/) from JetBrains**
 
-It is also recommended to know the programming language **[Kotlin](https://kotlinlang.org/) from JetBrains**
-
 Open **IntelliJ IDEA**, click on clone, and paste the URL to this GitHub
 
 #### Build bot
 To build a **bot**, you need to:
-- **`Java 19`**
+- **`Java 17`**
 - **`Gradle 8.6 and later`**
 
 If you have everything installed, write the following commands in the **`gradle shadowjar`** project folder.
