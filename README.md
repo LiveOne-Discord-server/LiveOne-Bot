@@ -4,7 +4,7 @@ Bot created for Discord server **[LiveOne.](https://discord.gg/jN2XgNJmfR)**
 This **bot** provides **commands** that provide information about the server
 
 ### **Usage | Installation**
-**Dependencies**: **`Java Version 19`**
+**Dependencies**: **`Java Version 17`**
 You can download the **Jar** file from **releases**, the newer the version the more **features**.
 
 After you have **downloaded the bot**, run it through the **file** **`Run.bat - for Windows` or `Run.sh - for Linux`**
