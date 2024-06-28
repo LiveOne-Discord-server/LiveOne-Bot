@@ -1,0 +1,2 @@
+DISCORD_TOKEN=<****>
+GIPHY_TOKEN=<****>
