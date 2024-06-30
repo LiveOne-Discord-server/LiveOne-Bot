@@ -18,7 +18,7 @@ This license does not grant you any right or permission to use the LiveOne name,
 
 5. Governing Law
 
-This license shall be governed by and construed in accordance with the laws of [Insert your jurisdiction here].
+This license shall be governed by and construed in accordance with the laws of [LiveOne-BANSA2.3].
 
 6. Entire Agreement
 
